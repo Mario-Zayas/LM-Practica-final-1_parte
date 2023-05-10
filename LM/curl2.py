@@ -1,3 +1,4 @@
+# Este programa python buscará un clan segun el nombre que le indiques, de no existir el clan, se devolverá "Clan no encontrado"
 import requests
 import os
 import json
