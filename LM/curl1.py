@@ -1,3 +1,4 @@
+# El siguiente programa python va a realizar una busqueda de un jugador por su tag, ademas, podras o no filtrar el contenido del jugador
 import requests
 import os
 import json
