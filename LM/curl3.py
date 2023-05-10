@@ -1,3 +1,4 @@
+# Este programa python devolverá un listado de todos los torneos globales que se estan realizando
 import requests
 import os
 import json
